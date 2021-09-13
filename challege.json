@@ -1,0 +1,88 @@
+
+
+ {
+  "mygrocery": [{
+          "SerialNo": "01",
+          "Name": "Apple",
+          "Quantity": "02",
+          "Unit": "Kg",
+          "Department": "Fruits",
+          "Notes": "Fresh"
+
+      },
+      {
+          "SerialNo": "02",
+          "Name": "Carrot",
+          "Quantity": "01",
+          "Unit": "Kg",
+          "Department":"Vegetables",
+          "Notes": "Organic"
+
+      },
+      {
+          "SerialNo": "03",
+          "Name": "Oil",
+          "Quantity": "01",
+          "Unit": "Litre",
+          "Department": "Grocery",
+          "Notes": "Olive oil"
+
+      },
+      {
+          "SerialNo": "04",
+          "Name": "Green Gram",
+          "Quantity": "01",
+          "Unit": "Kg",
+          "Department": "Pulses",
+          "Notes": "Organic"
+
+      },
+      {
+          "SerialNo": "05",
+          "Name": "Olives",
+          "Quantity": "250",
+          "Unit": "g",
+          "Department": "Bottle",
+          "Notes": "fresh"
+
+      },
+      {
+          "SerialNo": "06",
+          "Name": "Cottage Cheese",
+          "Quantity": "02",
+          "Unit": "packets",
+          "Department": "Milkproducts",
+          "Notes": "Amul"
+
+      },
+      {
+          "SerialNo": "07",
+          "Name": "Sugar",
+          "Quantity": "01",
+          "Unit": "Kg",
+          "Department": "Grocery",
+          "Notes": "Lulu"
+
+      },
+     {
+          "SerialNo": "09",
+          "Name": "Madangles",
+          "Quantity": "05",
+          "Unit": "Packet",
+          "Department": "Grocery",
+          "Notes": "Spicy Achari"
+
+      },
+      {
+          "SerialNo": "10",
+          "Name": "Pista",
+          "Quantity": "1",
+          "Unit": "Box",
+          "Department": "Nuts",
+          "Notes": "Miltop"
+
+      }
+
+  ]
+
+}
